@@ -1,0 +1,23 @@
+h1 {
+	color: blue;
+	padding-left: 50px;
+}
+
+.generateButton {
+	margin-left: 50px;
+}
+
+.divCreator {
+	display: block;
+	margin: 10px;
+	width: 200px;
+	height: 100px;
+	text-align: center;
+	padding-top: 50px;
+	font-family: Helvetica, sans-serif;
+	font-size: 24px;
+}
+
+.colorGreen {
+	background-color: #4dff00;
+}
